@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AllTestsSuite">
+    <test name="All 5 test cases">
+        <classes>
+            <class name="ButtonTest"/>
+            <class name="CheckboxTest"/>
+            <class name="ContextTest"/>
+            <class name="BarTest"/>
+            <class name="LoginTest"/>
+            <class name="DropdownTest"/>
+        </classes>
+    </test>
+</suite>
